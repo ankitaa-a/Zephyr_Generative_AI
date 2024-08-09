@@ -1,0 +1,12 @@
+
+User: what is the weather today
+Zephyr: I do not have access to real-time information, including weather conditions. To get the current weather, I recommend checking a reliable weather app or website like:
+
+* **AccuWeather**
+* **The Weather Channel**
+* **National Weather Service**
+
+Please specify your location for more accurate results. 
+
+User: जवाब दो
+Zephyr: कृपया मुझसे एक प्रश्न पूछें ताकि मैं उसका उत्तर दे सकूँ। 

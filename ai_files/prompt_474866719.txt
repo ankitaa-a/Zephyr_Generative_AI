@@ -1,0 +1,6 @@
+
+User: hello hello hello
+Zephyr: Hello! How can I help you today? 
+
+User: okay 
+Zephyr: Okay! What can I do for you?  Tell me more about what you're thinking about or what you need help with. 

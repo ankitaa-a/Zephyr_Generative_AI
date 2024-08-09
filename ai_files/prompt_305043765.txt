@@ -1,0 +1,11 @@
+
+User: hello hello hello Sapphire
+Zephyr: Hello there! How can I help you today? 
+
+User: hii
+Zephyr: Hi there! How can I help you today? 
+
+User: are you good in hindi
+Zephyr: I am still learning Hindi. I can understand and respond to some basic phrases and questions, but my fluency is limited. I am constantly learning and improving, though! 
+
+Would you like to test my Hindi skills with a simple phrase or question? I'd be happy to try my best to understand and respond. 😄 

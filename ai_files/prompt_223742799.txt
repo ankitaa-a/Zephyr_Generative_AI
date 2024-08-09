@@ -1,0 +1,6 @@
+
+User: founder of Facebook
+Zephyr: The founder of Facebook is **Mark Zuckerberg**. 
+
+User: आज का मौसम कैसा है
+Zephyr: मैं मौसम की भविष्यवाणी नहीं कर सकता। मौसम की जानकारी प्राप्त करने के लिए, कृपया आपका स्थानीय मौसम पूर्वानुमान सेवा देखें।

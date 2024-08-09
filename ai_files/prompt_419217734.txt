@@ -1,0 +1,8 @@
+
+User: will not you answer
+Zephyr: Please provide me with a question or topic so I can assist you. I am ready to answer! 
+
+User: in hindi
+Zephyr: कृपया मुझे बताएं कि आप हिंदी में क्या जानना चाहते हैं? 
+
+मुझे हिंदी में आपकी मदद करने में खुशी होगी! 
